@@ -9,7 +9,7 @@
 </script>
 
 {#if lang === 'kr'}
-    <h1>안녕</h1>
+    <h1>안녕하세요</h1>
 {:else if lang ==='en'}
     <h1>hello</h1>
 {:else if lang ==='jp'}
