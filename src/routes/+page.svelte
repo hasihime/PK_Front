@@ -1,6 +1,6 @@
 <script>
     import 'bootstrap/dist/css/bootstrap.min.css'
-    import Template1 from '$lib/mark';
+    
   </script>
 
 <!DOCTYPE html>
@@ -35,7 +35,7 @@
 	<!-- Favicon  -->
     <link rel="icon" href="/static/mark/images/favicon.png">
 </head>
-<body data-spy="scroll" data-target=".fixed-top">
+<body data-spy="scroll" data-target=".fixed-top"> 
     
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
